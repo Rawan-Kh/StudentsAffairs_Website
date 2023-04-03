@@ -1,7 +1,7 @@
 # StudentsAffairs_Website
 Students Affairs Website via Django
 
-### Stack: 
+### Tech Stack: 
 - Html 
 - Css  
 - JavaScript
